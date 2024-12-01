@@ -6,7 +6,7 @@ Explore three legendary games that have defined their respective genres: **Leagu
 
 ## League of Legends
 
-![League of Legends](https://example.com/league-of-legends-banner.jpg)
+![League of Legends](https://images.app.goo.gl/gkL6FoqFGcTx6RJTA)
 
 ### Overview
 - **Developer**: Riot Games  
