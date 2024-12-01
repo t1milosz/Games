@@ -6,7 +6,7 @@ Explore three legendary games that have defined their respective genres: **Leagu
 
 ## League of Legends
 
-![League of Legends](https://images.app.goo.gl/gkL6FoqFGcTx6RJTA)
+![League of Legends](https://images.app.goo.gl/gkL6FoqFGcTx6RJTA.jpg)
 
 ### Overview
 - **Developer**: Riot Games  
@@ -20,7 +20,7 @@ League of Legends (LoL) is one of the most popular competitive games globally, f
 2. **Constant Updates**: Riot Games consistently adds champions, game modes, and balance updates.
 3. **Rich Lore**: Dive into the world of Runeterra through animations, comics, and lore updates.
 
-![LoL Gameplay](https://example.com/league-of-legends-gameplay.jpg)
+![LoL Gameplay](https://www.google.com/search?q=pokemon+image&oq=pokemon+image+&gs_lcrp=EgZjaHJvbWUyCwgAEEUYDRg5GIAEMgkIARAAGA0YgAQyCQgCEAAYDRiABDIICAMQABgNGB4yCAgEEAAYDRgeMggIBRAAGA0YHjIICAYQABgNGB4yCAgHEAAYDRgeMggICBAAGA0YHjIICAkQABgNGB4yCAgKEAAYDRgeMggICxAAGA0YHjIICAwQABgNGB4yCAgNEAAYDRgeMggIDhAAGA0YHtIBCDUwNTRqMGo5qAIOsAIB&client=ms-android-nothing-terr2-rso3&sourceid=chrome-mobile&ie=UTF-8&chrome_dse_attribution=1#vhid=EVP0psx9oBWInM&vssid=_819MZ9fkDr6NwPAPsOmUuQw_40.jpg)
 
 ### Quick Stats
 
