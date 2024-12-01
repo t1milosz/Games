@@ -68,7 +68,7 @@ Pokémon invites players to capture and train creatures known as Pokémon, aimin
 
 ## The Witcher 3: Wild Hunt
 
-![The Witcher 3](https://ibb.co/xGG9zmT/witcher3-banner.jpg)
+![The Witcher 3](https://ibb.co/xGG9zmT/)
 
 ### Overview
 - **Developer**: CD Projekt Red  
