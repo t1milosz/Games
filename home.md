@@ -10,10 +10,7 @@ Explore some of the most iconic titles available on the platform, from open-worl
 
 Below are curated pages created by our group members, showcasing some of the most beloved games of all time:
 
-1. [The Legend of Zelda: Breath of the Wild](./zelda.md)  
-2. [Elden Ring](./eldenring.md)  
-3. [Cyberpunk 2077](./cyberpunk.md)  
-4. [League of Legends, Pokémon, and The Witcher 3](./games.md)
+1. [League of Legends, Pokémon, and The Witcher 3](./games.md)
 
 ---
 
