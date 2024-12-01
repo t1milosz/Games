@@ -6,7 +6,7 @@ Explore three legendary games that have defined their respective genres: **Leagu
 
 ## League of Legends
 
-![League of Legends](https://images.app.goo.gl/gkL6FoqFGcTx6RJTA.jpg)
+![League of Legends](https://ddragon.leagueoflegends.com/cdn/img/champion/splash/Aatrox_0.jpg)
 
 ### Overview
 - **Developer**: Riot Games  
@@ -37,7 +37,7 @@ League of Legends (LoL) is one of the most popular competitive games globally, f
 
 ## Pokémon
 
-![Pokémon](every-pokemon-in-a-single-image-v0-of9ktyw8s2ac1.jpg)
+![Pokémon](https://archives.bulbagarden.net/media/upload/8/88/Gen_1_Pokemon.png)
 
 ### Overview
 - **Developer**: Game Freak / The Pokémon Company  
@@ -68,7 +68,7 @@ Pokémon invites players to capture and train creatures known as Pokémon, aimin
 
 ## The Witcher 3: Wild Hunt
 
-![The Witcher 3](https://ibb.co/xGG9zmT/)
+![The Witcher 3](https://upload.wikimedia.org/wikipedia/commons/a/ab/The_Witcher_3_Wild_Hunt_Logo.png)
 
 ### Overview
 - **Developer**: CD Projekt Red  
