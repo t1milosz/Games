@@ -37,7 +37,7 @@ League of Legends (LoL) is one of the most popular competitive games globally, f
 
 ## Pokémon
 
-![Pokémon](every-pokemon-in-a-single-image-v0-of9ktyw8s2ac1.jpeg)
+![Pokémon](every-pokemon-in-a-single-image-v0-of9ktyw8s2ac1.jpg)
 
 ### Overview
 - **Developer**: Game Freak / The Pokémon Company  
