@@ -20,7 +20,7 @@ League of Legends (LoL) is one of the most popular competitive games globally, f
 2. **Constant Updates**: Riot Games consistently adds champions, game modes, and balance updates.
 3. **Rich Lore**: Dive into the world of Runeterra through animations, comics, and lore updates.
 
-![LoL Gameplay](https://www.google.com/search?q=pokemon+image&oq=pokemon+image+&gs_lcrp=EgZjaHJvbWUyCwgAEEUYDRg5GIAEMgkIARAAGA0YgAQyCQgCEAAYDRiABDIICAMQABgNGB4yCAgEEAAYDRgeMggIBRAAGA0YHjIICAYQABgNGB4yCAgHEAAYDRgeMggICBAAGA0YHjIICAkQABgNGB4yCAgKEAAYDRgeMggICxAAGA0YHjIICAwQABgNGB4yCAgNEAAYDRgeMggIDhAAGA0YHtIBCDUwNTRqMGo5qAIOsAIB&client=ms-android-nothing-terr2-rso3&sourceid=chrome-mobile&ie=UTF-8&chrome_dse_attribution=1#vhid=EVP0psx9oBWInM&vssid=_819MZ9fkDr6NwPAPsOmUuQw_40.jpg)
+[LoL Gameplay](https://youtu.be/xgzU1f4aPkE?si=XI1Ue1b_7KmrzqlF)
 
 ### Quick Stats
 
@@ -51,7 +51,7 @@ Pokémon invites players to capture and train creatures known as Pokémon, aimin
 2. **Gameplay**: Mixes exploration, turn-based combat, and team-building.
 3. **Latest Installment**: *Pokémon Scarlet and Violet* introduces open-world exploration.
 
-![Pokémon Gameplay](https://example.com/pokemon-gameplay.jpg)
+[Pokémon Gameplay](https://youtu.be/0VE-XviiLWk?si=rOjcpbxBSYkqJv3S)
 
 ### Quick Stats
 
@@ -82,7 +82,7 @@ Step into the boots of Geralt of Rivia, a monster hunter navigating a morally am
 2. **Expansions**: *Hearts of Stone* and *Blood and Wine* added significant content.
 3. **Critical Acclaim**: Won numerous Game of the Year awards.
 
-![The Witcher 3 Gameplay](https://example.com/witcher3-gameplay.jpg)
+[The Witcher 3 Gameplay](https://youtu.be/qK4gTahM18o?si=38gCl4Gkgiqd8p-6)
 
 ### Quick Stats
 
